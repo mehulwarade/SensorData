@@ -1,0 +1,10 @@
+Humidity: 55.30 %, Temp: 24.50 Celsius
+Humidity: 34.40 %, Temp: 24.30 Celsius
+Humidity: 34.20 %, Temp: 24.20 Celsius
+Humidity: 34.50 %, Temp: 24.20 Celsius
+Humidity: 99.90 %, Temp: 24.90 Celsius
+Humidity: 99.90 %, Temp: 26.40 Celsius
+Humidity: 99.90 %, Temp: 27.20 Celsius
+Humidity: 99.90 %, Temp: 28.50 Celsius
+Humidity: 99.90 %, Temp: 29.10 Celsius
+Humidity: 99.90 %, Temp: 29.60 Celsius
